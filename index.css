@@ -1,0 +1,13 @@
+body .contenedor {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+}
+body div.contenedor h2.titulo {
+  font-family: sans-serif;
+  font-size: 200px;
+}
+p.texto {
+  color: red;
+  font-size: 100px;
+}
